@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Nico-Moon
+- 🌱 I’m currently learning JS, Lua
+- 💞️ I’m looking to collaborate on something, maybe
+- 📫 How to reach me @Nico_moon#7842 on discord
